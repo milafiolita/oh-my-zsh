@@ -40,14 +40,13 @@ source .zshrc
 ```
 
 ## 6. Fitur - Fitur Zsh yang tidak tersedia di Bash
-## Auto-correct
+### Auto-correct
 pada zsh terdapat auto-correct
-![auto-correct](https://qph.ec.quoracdn.net/main-qimg-d45a5c5abf52584a62a147e4df0bbd82.webp "Logo Title Text 1")
 
-## Auto-complete
+### Auto-complete
 pada zsh terdapat auto-complete dengan cara tekan tombol **tab**
 
-## Expand Variable
+### Expand Variable
 ketik
 ``` 
 $ Path
@@ -57,7 +56,7 @@ maka akan menghasilkan
 ```
 /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ```
- ## Extended gobbling
+### Extended gobbling
  ```
  ls *(                                                                   1 ↵
 %  -- device files
@@ -76,18 +75,18 @@ E  -- group-executable
 F  -- non-empty directories
  ```
 
-## Autopush Command
+### Autopush Command
  autopushd command pada zsh membuat 
  ```
  cd
  ```
  bisa langsung kembali ke direktori sebelumnya
 
-## Tema
+### Tema
  zsh menyediakan berbagai tema yang bisa diubah oleh pengguna
 
-## Alias 
+### Alias 
  menyediakan perintah yang lebih singkat. Contoh :
  ```
-ls -liah Menjadi ls -ll
+ls -liah menjadi ls -ll
  ```
