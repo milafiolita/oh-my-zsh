@@ -51,14 +51,13 @@ ketik
 ``` 
 $ Path
 ```
-kemudian tekan **tab**
 maka akan menghasilkan 
 ```
 /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ```
 ### Extended gobbling
  ```
- ls *(                                                                   1 ↵
+ ls *(
 %  -- device files
 )  -- end of qualifiers
 *  -- executable plain files
@@ -76,7 +75,6 @@ F  -- non-empty directories
  ```
 
 ### Autopush Command
- autopushd command pada zsh membuat 
  ```
  cd
  ```
